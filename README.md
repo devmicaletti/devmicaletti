@@ -1,4 +1,4 @@
-- 👋 Hello, I am Devon Micaletti
+- 👋 Hello, my name isDevon Micaletti
 - 👀 My main interests include Sports, Music, and Cooking/Baking
 - 🌱 I'm currently in my second year at my university
 - 📫 How to reach me: Email or LinkedIn
