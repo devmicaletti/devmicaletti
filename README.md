@@ -4,6 +4,8 @@
 - 📫 How to reach me: Email or LinkedIn
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmicaletti&show_icons=true&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=devmicaletti)
 <!---
 devmicaletti/devmicaletti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
